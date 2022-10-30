@@ -1,5 +1,5 @@
 # wissen_assessment
 
-Clone the project
-npm install
-npm start
+#npm install
+
+#npm start
